@@ -2,7 +2,6 @@ neighbourhood,room_type,price
 Adachi Ku,Shared room,5015.0
 Adachi Ku,Private room,7000.0
 Adachi Ku,Entire home/apt,12915.0
-Adachi Ku,Hotel room,
 Akiruno Shi,Shared room,6400.0
 Akiruno Shi,Private room,15042.5
 Akiruno Shi,Entire home/apt,20846.0
@@ -17,7 +16,6 @@ Bunkyo Ku,Private room,15922.0
 Chiyoda Ku,Shared room,4968.5
 Chiyoda Ku,Private room,15723.0
 Chiyoda Ku,Entire home/apt,26891.0
-Chiyoda Ku,Hotel room,
 Chofu Shi,Private room,5760.5
 Chofu Shi,Shared room,9335.0
 Chofu Shi,Entire home/apt,14154.0
@@ -56,7 +54,6 @@ Kita Ku,Entire home/apt,13628.5
 Kiyose Shi,Entire home/apt,8613.0
 Kiyose Shi,Shared room,13000.0
 Kodaira Shi,Private room,8100.0
-Kodaira Shi,Entire home/apt,
 Koganei Shi,Private room,12037.0
 Koganei Shi,Entire home/apt,20926.0
 Kokubunji Shi,Private room,6551.0
@@ -93,7 +90,6 @@ Nishitokyo Shi,Private room,5643.0
 Nishitokyo Shi,Entire home/apt,16135.0
 Okutama Machi,Private room,15200.0
 Okutama Machi,Entire home/apt,15543.0
-Okutama Machi,Shared room,
 Ome Shi,Shared room,3366.0
 Ome Shi,Private room,4600.0
 Ome Shi,Entire home/apt,21927.0
@@ -110,7 +106,6 @@ Shibuya Ku,Entire home/apt,22508.0
 Shinagawa Ku,Shared room,4565.0
 Shinagawa Ku,Private room,13275.0
 Shinagawa Ku,Entire home/apt,14369.5
-Shinagawa Ku,Hotel room,
 Shinjuku Ku,Shared room,6550.0
 Shinjuku Ku,Private room,14686.0
 Shinjuku Ku,Entire home/apt,18434.5
